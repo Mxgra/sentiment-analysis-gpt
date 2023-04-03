@@ -6,3 +6,5 @@ In order to use these notebooks, imported libraries as well as this [genius lyri
 are needed.
 
 Please refer to the kaggle description for more information.
+
+![German Rap Sentiment](rap-sentiment-pie-chart)
