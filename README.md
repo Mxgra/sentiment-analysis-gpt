@@ -7,4 +7,4 @@ are needed.
 
 Please refer to the kaggle description for more information.
 
-![German Rap Sentiment](rap-sentiment-pie-chart.png?raw=true)
+![German Rap Sentiment](rap-sentiment-pie-chart.png?raw=true =450x375)
