@@ -1,3 +1,22 @@
+Finetuning Bert for Sentiment Analysis.ipynb
+archive.zip
+data_emotion
+environment.yml
+gitignore.txt
+gpt-auth-key.txt
+raps_de.csv
+raps_de_min_10_songs
+raps_de_min_10_songs.csv
+second_raps_de.csv
+sentiment_second_raps_de.csv
+sentiment_third_raps_de.csv
+song_lyrics.csv
+spotify_secrets.txt
+test_sample
+test_sample.csv
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
